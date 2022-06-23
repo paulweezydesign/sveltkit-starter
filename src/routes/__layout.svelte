@@ -5,7 +5,7 @@
 
 <Header />
 
-<main>
+<main class="w-[100vw] h-[100vh]" >
 	<slot />
 </main>
 
